@@ -27,9 +27,9 @@
 ---
 
 ## 👥 Research Team at Sync AI Inc.
-- **[Your Name]** - Research Lead, AI Development
-- **[Team Member 1]** - Contributor, Dataset Preparation
-- **[Team Member 2]** - Technical Advisor, Model Integration
+- **Thirupathi Kadari** - Research Lead, AI Development
+- **Syed Raheel Hussain** - Research Contributor, Healthcare Integration
+- **Tushar Sinha** - Technical Advisor, Product Strateg
 
 ---
 
@@ -121,10 +121,24 @@ For details on dataset preparation, refer to the [Dataset Preparation Guide](doc
 
 ---
 
-## 🤝 Contributing
-We welcome contributions! Here's how you can get started:
+## 🤝 Contributing  
+We welcome contributions! Here's how you can get involved:  
+1. Fork the repository.  
+2. Create a new branch: `git checkout -b feature/your-feature`.  
+3. Commit your changes: `git commit -m 'Add some feature'`.  
+4. Push to the branch: `git push origin feature/your-feature`.  
+5. Submit a pull request. 
 
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature
+## 📫 Contact
+For research collaboration or healthcare integration inquiries:
+- 📧 **Thirupathi Kadari**: [Email](mailto:thirupathi.kadari986@gmail.com)
+- 📧 **Sayed Raheel Hussain**: [Email](mailto:Sayedraheel1995@gmail.com)
+- 📧 **Tushar Sinha**: [Email](mailto:tsr@justsync.ai)
+
+## 📃 License
+Copyright © 2024 Sync AI Inc. All rights reserved.
+
+---
+<p align="center">
+Developed by Sync AI Inc. for advancing diabetes care through intelligent nutrition monitoring
+</p>
