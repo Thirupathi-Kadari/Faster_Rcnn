@@ -48,6 +48,34 @@
 4. Dockerized environment for seamless development and deployment.
 
 ---
+## 🔧 Installation
+
+### Prerequisites
+- **Hardware**: NVIDIA GPU with at least 8GB VRAM.
+- **Software**:
+  - Docker
+  - NVIDIA Container Toolkit
+
+### Steps to Install and Run
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/faster-rcnn-food-detection.git
+   cd faster-rcnn-food-detection
+---
+
+### Build the Docker Image
+  ```
+
+docker build -t detectron2:latest -f docker/Dockerfile .
+
+```
+
+### Run the Docker Container
+  ```
+  docker run --gpus all -it --rm --name detectron2-container -v $(pwd):/workspace detectron2:latest bash
+```
+
+---
 
 ## 📊 Performance Metrics
 
